@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Cupboard</string>
+    <string name="recipes_main">Recipes</string>
+    <string name="search_main">Search</string>
+    <string name="edit_products_main">Edit Products</string>
+    <string name="availability_main">Availability</string>
+    <string name="register_product_main">Register Product</string>
+    <string name="display_product_main">Display Product</string>
+    <string name="description_register_product">Description</string>
+    <string name="price_register_product">Price</string>
+    <string name="_0_register_product">0</string>
+    <string name="weight_register_product">Weight</string>
+    <string name="_0_0_register_product">0.0</string>
+    <string name="add_a_product_register_product">Add a product</string>
+    <string name="product_name_register_product">Product Name</string>
+    <string name="save_register_product">Save</string>
+    <string name="save_availible">Save</string>
+    <string name="textview_reciperesults">Results:</string>
+    <string name="find_recipe_recipes">Find recipe</string>
+    <string name="add_to_kitchen_displayprod">Add to kitchen</string>
+    <string name="textview_prodtoedit">TextView</string>
+    <string name="product_name_prodtoedit">Product Name</string>
+    <string name="weight_prodtoedit">Weight</string>
+    <string name="_prodtoedit">Price</string>
+    <string name="description_prodtoedit">Description</string>
+    <string name="_0_prodtoedit">0</string>
+    <string name="_0_0_prodtoedit">0.0</string>
+    <string name="update_prodtoedit">Update</string>
+    <string name="available_prodtoedit">Available</string>
+    <string name="search_search">Search</string>
+    <string name="results_search">Results:</string>
+</resources>
